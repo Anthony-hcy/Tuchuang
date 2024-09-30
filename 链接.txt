@@ -1,3 +1,9 @@
+alink    Fun
+dlink   导航Navigation、统计Statistics、Information、Office
+elink	Game、Anime、二次元、
+link     Web、友链
+
+
 搬书匠
 http://www.banshujiang.cn/
 http://image.banshujiang.cn/logo.png?imageView2/2/w/128/h/128/q/100
